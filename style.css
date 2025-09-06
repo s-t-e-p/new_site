@@ -48,3 +48,10 @@ button {
     border: none;
     cursor: pointer;
 }
+
+#a-propos {
+    background-color: #e8f0ff;
+    padding: 20px;
+    margin-top: 20px;
+    border-left: 4px solid #004080;
+}
